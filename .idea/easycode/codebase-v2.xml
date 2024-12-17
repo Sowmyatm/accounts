@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/AccountsMS/build/reports/problems/problems-report.html;C:/Users/kppra/springbootprojects/AccountsMS/AccountsMS/src/main/java/com/tekarch/AccountsMS/Controller/AccountController.java;C:/Users/kppra/springbootprojects/AccountsMS/AccountsMS/src/main/java/com/tekarch/AccountsMS/Models/Account.java;C:/Users/kppra/springbootprojects/AccountsMS/AccountsMS/src/main/java/com/tekarch/AccountsMS/Repositories/AccountRepository.java;C:/Users/kppra/springbootprojects/AccountsMS/AccountsMS/src/main/java/com/tekarch/AccountsMS/Services/AccountService.java;C:/Users/kppra/springbootprojects/AccountsMS/AccountsMS/src/main/java/com/tekarch/AccountsMS/AccountsMsApplication.java;C:/Users/kppra/springbootprojects/AccountsMS/AccountsMS/src/test/java/com/tekarch/AccountsMS/AccountsMsApplicationTests.java;C:/Users/kppra/springbootprojects/AccountsMS/AccountsMS/HELP.md" />
+  </component>
+</project>
